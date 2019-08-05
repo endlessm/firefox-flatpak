@@ -32,7 +32,8 @@
         "com.adobe.FlashPlayer.NPAPI": {
             "add-ld-path": "lib",
             "directory": "firefox/flash",
-            "autodelete": true
+            "autodelete": true,
+            "no-autodownload": true
         }
     },
     "modules": [
