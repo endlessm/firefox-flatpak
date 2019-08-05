@@ -15,6 +15,8 @@
         "--socket=wayland",
         "--socket=fallback-x11",
         "--filesystem=home",
+        "--filesystem=/var/lib/codecs:ro",
+        "--env=LD_LIBRARY_PATH=/var/lib/codecs:/app/lib",
         "--talk-name=org.gnome.vfs.*",
         "--device=dri",
         "--device=all",
