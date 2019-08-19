@@ -65,7 +65,8 @@
                 "install -Dm 644 -t /app/share/applications org.mozilla.Firefox.desktop",
                 "for size in 16 32 48 64 128; do install -D -m644 icons/default${size}.png /app/share/icons/hicolor/${size}x${size}/apps/org.mozilla.Firefox.png; done",
                 "install -Dm 644 -t /app/firefox/data endless-default-prefs.js",
-                "install -Dm 644 -t /app/firefox/data distribution.ini"
+                "install -Dm 644 -t /app/firefox/data distribution.ini",
+                "install -Dm 644 -t /app/firefox/data policies.json"
             ],
             "sources": [
                 {
@@ -90,11 +91,15 @@
                 },
                 {
                     "type": "file",
+                    "path": "endless-default-prefs.js"
+                },
+                {
+                    "type": "file",
                     "path": "distribution.ini"
                 },
                 {
                     "type": "file",
-                    "path": "endless-default-prefs.js"
+                    "path": "policies.json"
                 },
                 {
                     "type": "dir",
