@@ -39,9 +39,9 @@
                     "only-arches": [
                         "x86_64"
                     ],
-                    "url": "http://fpdownload.adobe.com/get/flashplayer/pdc/32.0.0.223/flash_player_npapi_linux.x86_64.tar.gz",
-                    "sha256": "9fed6437ac8903f0b289e84193c39bfca8ada2467c93acc50ee8de77517a0b1e",
-                    "size": 9052736,
+                    "url": "http://fpdownload.adobe.com/get/flashplayer/pdc/32.0.0.238/flash_player_npapi_linux.x86_64.tar.gz",
+                    "sha256": "3a711c50396819ead949598b0c0bb960ac923172f9d9b6e3db7790dfa4d6fb15",
+                    "size": 9054187,
                     "x-checker-data": {
                         "type": "flash",
                         "browser": "Firefox"
@@ -53,9 +53,9 @@
                     "only-arches": [
                         "i386"
                     ],
-                    "url": "http://fpdownload.adobe.com/get/flashplayer/pdc/32.0.0.223/flash_player_npapi_linux.i386.tar.gz",
-                    "sha256": "c206abb44d2940907c3a93475fa614b8a1b8fb127fbd215b66e36d5eedaf56fc",
-                    "size": 8537552,
+                    "url": "http://fpdownload.adobe.com/get/flashplayer/pdc/32.0.0.238/flash_player_npapi_linux.i386.tar.gz",
+                    "sha256": "e08807dcf17b68721658e5d91de781626acc5efb00946508efdde5021ffc871a",
+                    "size": 8537560,
                     "x-checker-data": {
                         "type": "flash",
                         "browser": "Firefox"
