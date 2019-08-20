@@ -68,6 +68,9 @@
                 "install -Dm 644 -t /app/firefox/data distribution.ini",
                 "install -Dm 644 -t /app/firefox/data policies.json"
             ],
+            "x-checker-data": {
+                "type": "firefox"
+            },
             "sources": [
                 {
                     "type": "file",
