@@ -52,6 +52,7 @@
   </screenshots>
 
   <releases>
+    <release version="72.0" date="2020-01-06"/>
     <release version="71.0" date="2019-12-02"/>
     <release version="70.0.1" date="2019-10-31"/>
     <release version="70.0" date="2019-10-21"/>
