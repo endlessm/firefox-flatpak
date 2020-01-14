@@ -5,6 +5,7 @@
   <name>Adobe Flash extension for Firefox</name>
   <summary>Contains the Adobe Flash player NPAPI plugin for use with Firefox</summary>
   <releases>
+    <release version="32.0.0.314" date="2020-01-14"/>
     <release version="32.0.0.303" date="2019-12-10"/>
     <release version="32.0.0.293" date="2019-11-13"/>
     <release version="32.0.0.270" date="2019-10-09"/>
